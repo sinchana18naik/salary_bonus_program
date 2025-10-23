@@ -6,3 +6,5 @@ final_salary = total_salary - tax
 print("\nOriginal Salary: ₹", salary)
 print("Bonus Added: ₹", total_salary)
 print("after tax deduction :",final_salary)
+#
+
